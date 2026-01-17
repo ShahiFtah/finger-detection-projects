@@ -18,6 +18,10 @@ En samling prosjekter laget med **MediaPipe og OpenCV** – morsomme, Sci-Fi og 
 En enkel demonstrasjon av **fingerdeteksjon med MediaPipe og OpenCV**.  
 Prosjektet viser hvordan systemet kan detektere fingertupper og tegne dots på hver fingertupp.
 
+## Viktig fil
+
+Dette prosjektet bruker modellen `hand_landmarker.task` fra MediaPipe for å detektere fingertuppene.  
+Sørg for at filen ligger i samme mappe som `finger_detection.py` før du kjører scriptet.
 
 ## Krav
 - Python 3.7+
