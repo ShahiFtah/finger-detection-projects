@@ -20,7 +20,7 @@ Prosjektet viser hvordan systemet kan detektere fingertupper og tegne dots på h
 
 ## Viktig fil
 
-Dette prosjektet bruker modellen `hand_landmarker.task` fra MediaPipe for å detektere fingertuppene.  
+Dette prosjektet bruker modellen `hand_landmarker.task` fra MediaPipe (Google) for å detektere fingertuppene.  
 Sørg for at filen ligger i samme mappe som `finger_detection.py` før du kjører scriptet.
 
 ## Krav
